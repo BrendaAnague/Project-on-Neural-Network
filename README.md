@@ -1,5 +1,5 @@
 # Project-on-Neural-Network (Dolphine Network)
-Dolphine Network
+##Dolphine Network
 The Dolphine Network is an undirected social network of frequent associations
 between 62 dolphins in a community living off Doubtful Sound, New Zealand.
 Ecologist David Lusseau of the University of Aberdeen, UK, studied the
